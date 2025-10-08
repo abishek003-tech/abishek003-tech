@@ -1,12 +1,7 @@
 ## Hi there 👋 It's me abishek
 
-AIML<!--
-**abishek003-tech/abishek003-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
 Artificial Intelligence & Machine Learning Student
+
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
