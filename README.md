@@ -37,7 +37,7 @@
 
 ---
 
-## ⚡ Fun Line 😄
+## ⚡ Fun Fact 😄
 
 > "I love learning new tools, breaking stuff to understand it, and then automating it 😄☁️"
 ---
