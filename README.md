@@ -23,7 +23,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 [![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishek003-tech\&show_icons=true\&theme=tokyonight)](https://github.com/abishek003-tech)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishek003-tech\&layout=compact\&theme=tokyonight)](https://github.com/abishek003-tech)
@@ -39,8 +39,7 @@
 
 ## ⚡ Fun Line 😄
 
-> "Studying AIML, mastering DevOps — fixing every bug with chill vibes and confidence 😎☁️"
-
+> "I love learning new tools, breaking stuff to understand it, and then automating it 😄☁️"
 ---
 
 ###### © 2025 Abishek | Made with ❤️ and curiosity
