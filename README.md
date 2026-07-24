@@ -6,10 +6,8 @@
 
 
 # 👋 Hi, I'm **Abishek S**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4500&pause=2500&color=00E5FF&background=00000000&center=true&vCenter=true&repeat=true&width=950&height=80&lines=⚡+B.E+CSE+++Artificial+Intelligence+%26+Machine+Learning;🚀+Future+DevOps+%26+Cloud+Engineer;🐧+Linux+%7C+Docker+%7C+Kubernetes;💻+Open+Source+Contributor;🎯+Code.+Build.+Innovate.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.E+AI+%26+ML+Student;Aspiring+DevOps+%26+Cloud+Engineer;Learning+Automation+Step+by+Step;Building+Skills+Every+Day" />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abishek003-tech&style=for-the-badge&color=0e75b6" />
 </p>
@@ -54,14 +52,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 # 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abishek003-tech&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek003-tech&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
