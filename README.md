@@ -51,14 +51,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishek003-tech&theme=tokyonight"/>
-
-</p>
-
 # 📬 Connect With Me
 
 📧 Email: abi769895@gmail.com  
