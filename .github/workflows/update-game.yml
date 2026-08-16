@@ -1,0 +1,31 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Space Shooter
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: abishek003-tech
+          output-path: game.gif
+          strategy: random
+
+      - name: Commit Game
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "game.gif"
+          message: "Update GitHub Space Shooter"
