@@ -1,22 +1,24 @@
 name: Update Space Shooter Game
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-game:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Generate GitHub Space Shooter
+      - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -24,8 +26,8 @@ jobs:
           output-path: game.gif
           strategy: random
 
-      - name: Commit Game
+      - name: Commit GIF
         uses: EndBug/add-and-commit@v9
         with:
-          add: "game.gif"
+          add: game.gif
           message: "Update GitHub Space Shooter"
