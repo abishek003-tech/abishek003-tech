@@ -61,9 +61,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishek003-tech&theme=tokyonight"/>
-</p>
 
 # 📬 Connect With Me
 
